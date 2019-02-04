@@ -1,7 +1,5 @@
---
 DEFAULT autonuke
 
 LABEL autonuke
 KERNEL dban.bzi
 APPEND nuke="dwipe --autonuke" silent
---
